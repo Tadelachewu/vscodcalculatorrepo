@@ -1,0 +1,20 @@
+.disp{
+background-color: azure;
+height: 20px;
+width: 60vh;
+
+}
+.cal{
+background-color: chartreuse;
+height: 40vh;
+width: 60vh;
+
+display: grid;
+grid-template-columns: repeat(3,4fr);
+}
+button{
+    background-color: aqua;
+    color: darkblue;
+    border-radius: 5px;
+    clip-path: circle(50%);
+}
