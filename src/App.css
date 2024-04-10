@@ -1,7 +1,8 @@
 .App {
   text-align: center;
-}
+  background-image: url(https://th.bing.com/th/id/OIP.sUObIN1gOVY309VfiebVuAHaEv?w=287&h=183&c=7&r=0&o=5&pid=1.7);
 
+}
 .App-logo {
   background-color: blue;
   height: 50vmin;
@@ -39,4 +40,7 @@ h1{
   to {
     transform: rotate(360deg);
   }
+}
+.Fanoim{
+  background-image: url(https://th.bing.com/th/id/OIP.sUObIN1gOVY309VfiebVuAHaEv?w=287&h=183&c=7&r=0&o=5&pid=1.7);
 }

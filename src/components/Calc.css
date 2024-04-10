@@ -1,7 +1,9 @@
 .disp{
 background-color: azure;
-height: 20px;
+height: 50px;
 width: 60vh;
+position: relative;
+bottom: 20px;
 
 }
 .cal{
@@ -17,4 +19,9 @@ button{
     color: darkblue;
     border-radius: 5px;
     clip-path: circle(50%);
+}
+.RES{
+    background-color: aqua;
+    color: crimson;
+    padding: -40px;
 }
